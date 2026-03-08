@@ -14,7 +14,7 @@
 
 The objective of this project is to build a machine learning model capable of predicting **customer churn**, which refers to customers discontinuing their service. Accurate churn prediction allows businesses to proactively retain customers through targeted strategies.
 
-To achieve reliable predictions, the dataset must undergo several preprocessing steps including:
+To achieve reliable predictions, the dataset must undergo several preprocessing steps, including:
 
 * Data cleaning
 * Handling categorical variables
@@ -57,7 +57,7 @@ Initial exploration was performed to understand the structure of the dataset.
 * Checked dataset shape and structure
 * Inspected column data types
 * Verified missing values
-* Examined distribution of the churn variable
+* Examined the distribution of the churn variable
 
 Example code:
 
@@ -67,13 +67,11 @@ df.describe()
 df.isnull().sum()
 ```
 
-No significant missing values were found in the dataset.
-
 ---
 
 # 4. Handling Categorical Data
 
-Machine learning algorithms require numerical input. Therefore categorical variables were converted into numerical format.
+Machine learning algorithms require numerical input. Therefore, categorical variables were converted into a numerical format.
 
 Three encoding methods were implemented.
 
@@ -115,7 +113,7 @@ Generated features such as:
 
 ### 4.3 Binary Encoding
 
-Binary mapping was applied to boolean variables.
+Binary mapping was applied to Boolean variables.
 
 Example:
 
