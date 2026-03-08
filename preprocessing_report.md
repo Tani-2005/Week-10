@@ -1,8 +1,11 @@
 # Data Preprocessing Report
 
 **Project:** Customer Churn Prediction
+
 **Dataset:** customer_churn.csv
+
 **Rows:** 500
+
 **Columns:** 9 (original dataset)
 
 ---
