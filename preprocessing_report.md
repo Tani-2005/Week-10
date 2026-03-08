@@ -277,9 +277,3 @@ A complete preprocessing pipeline was successfully implemented to prepare the da
 * Scikit-Learn
 * Matplotlib
 * Seaborn
-
----
-
-# Author
-
-Customer Churn Prediction – Data Preprocessing Project
