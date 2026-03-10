@@ -78,15 +78,9 @@ Week-10/
 ├── churn_prediction_pipeline.ipynb
 ├── README.md
 ├── requirements.txt
-├── data/
-│   └── customer_churn.csv
-├── documentation/
-│   ├── preprocessing_report.md
-│   └── feature_engineering_documentation.md
-├── visualizations/
-│   ├── churn_distribution.png
-│   ├── correlation_heatmap.png
-│   └── feature_importance.png
+├── customer_churn.csv
+├── preprocessing_report.md
+├── feature_engineering_documentation.md
 └── models/
     └── churn_prediction_model.pkl
 ```
