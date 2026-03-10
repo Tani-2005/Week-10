@@ -80,9 +80,8 @@ Week-10/
 ├── requirements.txt
 ├── customer_churn.csv
 ├── preprocessing_report.md
-├── feature_engineering_documentation.md
-└── models/
-    └── churn_prediction_model.pkl
+└── feature_engineering_documentation.md
+
 ```
 
 ---
