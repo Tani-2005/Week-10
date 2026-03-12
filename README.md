@@ -155,7 +155,3 @@ Week-10/
 ---
 
 # 📦 Deliverables
-
-* Data preprocessing and feature engineering pipeline
-* Churn prediction machine learning model
-
