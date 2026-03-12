@@ -168,7 +168,3 @@ Week-10/
 # 📤 Submission Checklist
 
 * churn_prediction_pipeline.ipynb
-* preprocessing_report.md
-* feature_engineering_documentation.md
-
-
