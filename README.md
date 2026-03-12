@@ -170,6 +170,5 @@ Week-10/
 * churn_prediction_pipeline.ipynb
 * preprocessing_report.md
 * feature_engineering_documentation.md
-* customer_churn.csv dataset
-* requirements.txt
+
 
