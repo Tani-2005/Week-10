@@ -158,9 +158,4 @@ Week-10/
 
 * Data preprocessing and feature engineering pipeline
 * Churn prediction machine learning model
-* Preprocessing documentation report
-* Feature engineering documentation
-* Visualizations and analysis outputs
-* Well-structured GitHub repository
 
----
