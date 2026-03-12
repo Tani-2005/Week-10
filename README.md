@@ -172,6 +172,4 @@ Week-10/
 * feature_engineering_documentation.md
 * customer_churn.csv dataset
 * requirements.txt
-* Complete README.md documentation
-* Organized project repository
-* Fully reproducible pipeline
+
