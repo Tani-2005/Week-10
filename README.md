@@ -164,7 +164,3 @@ Week-10/
 * Well-structured GitHub repository
 
 ---
-
-# 📤 Submission Checklist
-
-* churn_prediction_pipeline.ipynb
